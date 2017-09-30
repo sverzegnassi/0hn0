@@ -20,7 +20,7 @@ var Game = new (function() {
 
       startedTutorial = false,
       grid,
-      sizes = [5,6,7,8],
+      sizes = [4,5,6,7,8,9],
       lastSize = 0,
       currentPuzzle = null,
       checkTOH = 0,
